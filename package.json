@@ -1,0 +1,13 @@
+{
+  "name": "disable-pjax",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Francisco Giordano <frangio.1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "web-ext build"
+  },
+  "dependencies": {
+    "web-ext": "^3.2.0"
+  }
+}
